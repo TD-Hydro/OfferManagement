@@ -1,0 +1,3 @@
+<FilesMatch "\.sq3$">
+Deny from all
+</FilesMatch>
